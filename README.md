@@ -1,2 +1,2 @@
-# bounceOffLibrary
-Two rectangles bounces off from each other
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
